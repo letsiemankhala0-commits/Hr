@@ -1,0 +1,13 @@
+body{ background-image: 's2.jpg';
+	padding: 15px;
+	font-family: arial;}
+
+	nav{background-color: lightblue;
+		padding: 20px
+	}
+	nav{
+		background-color: lightblue;
+		padding: 15px;
+	}
+	footer{color: lightblue;
+		padding: 20px}
